@@ -1,0 +1,8 @@
+module EquationCorba {
+
+   interface EquationInterface { 
+   string equation(in double a,in double b,in double c);
+   
+   };
+	
+};
